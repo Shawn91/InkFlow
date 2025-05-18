@@ -1,7 +1,7 @@
 {
   "name": "ink_flow",
   "version": "0.0.1",
-  "description": "\u0016\u0016\u0016\u0016Auto-tune Image Generation Prompts to Your Desire",
+  "description": "Auto-tune Image Generation Prompts to Your Desire",
   "productName": "InkFlow",
   "author": "Shawn <vuyuxl199199@gmail.com>",
   "type": "module",
@@ -31,6 +31,7 @@
     "@vue/eslint-config-typescript": "^14.5.0",
     "autoprefixer": "^10.4.21",
     "electron": "^36.2.1",
+    "electron-builder": "^24.13.3",
     "eslint": "^9.27.0",
     "eslint-plugin-vue": "^10.1.0",
     "globals": "^16.1.0",
