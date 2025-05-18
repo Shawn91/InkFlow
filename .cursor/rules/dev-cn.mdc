@@ -1,0 +1,14 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+1. 本项目使用 Typescript 5.8 + Vue 3.5 + Quasar 2.18 开发
+
+2. 状态管理使用 Pinia 3.0，网络请求使用 Axios 1.9
+
+3. 请始终写出结构合理，易于维护的优雅代码
+
+4. 用中文作答，但是代码注释用英文
+
+5. 每次修改代码都要考虑本项目同时支持 2 个部署场景：网页版和 Electron 版
