@@ -15,7 +15,9 @@
     "postinstall": "quasar prepare"
   },
   "dependencies": {
+    "@openrouter/ai-sdk-provider": "^0.4.6",
     "@quasar/extras": "^1.16.17",
+    "ai": "^4.3.16",
     "axios": "^1.9.0",
     "pinia": "^3.0.2",
     "quasar": "^2.18.1",
